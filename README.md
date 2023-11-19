@@ -10,14 +10,18 @@
 Набор библиотек FFmpeg:
 `sudo apt install ffmpeg`
 
-Менеджер пакетов
+Менеджер пакетов:
+
 `sudo apt install python3-pip`
 
 Пакеты Python3:
+
 `pip install transformers, torch, accelerate, sentencepiece, sacremoses, python-telegram-bot, openai-whisper, pydub`
 
 Команда запуска бота:
+
 `python3 tg_bot.py`
 
 Полное описание в статье на Хабр
+
 This site was built using [Ссылка на статью ](https://habr.com/ru/articles/774806/)
