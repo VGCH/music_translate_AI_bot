@@ -1,5 +1,5 @@
-# ИИ Телеграм Бот для распознавания текста в музыкальных аудиофайлах и перевода на русский язык
-## AI Telegram bot for recognizing and translating song lyrics from an audio file
+## ИИ Телеграм Бот для распознавания текста в музыкальных аудиофайлах и перевода на русский язык
+### AI Telegram bot for recognizing and translating song lyrics from an audio file
 
 Бот работает на следующих моделях:
 
