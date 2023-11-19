@@ -24,4 +24,4 @@
 
 Полное описание в статье на Хабр
 
-This site was built using [Ссылка на статью ](https://habr.com/ru/articles/774806/)
+[Ссылка на статью ](https://habr.com/ru/articles/774806/)
