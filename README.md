@@ -9,9 +9,8 @@
 
 Для работы бота необходимо установить следующие зависимости/пакеты:
 Набор библиотек FFmpeg:
-
+```no-highlight
 ```sudo apt install ffmpeg```
-
 Менеджер пакетов:
 
 ```sudo apt install python3-pip```
