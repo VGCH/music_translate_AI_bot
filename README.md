@@ -9,19 +9,19 @@
 
 Для работы бота необходимо установить следующие зависимости/пакеты:
 Набор библиотек FFmpeg:
-`sudo apt install ffmpeg`
+```sudo apt install ffmpeg```
 
 Менеджер пакетов:
 
-`sudo apt install python3-pip`
+```sudo apt install python3-pip```
 
 Пакеты Python3:
 
-`pip install transformers, torch, accelerate, sentencepiece, sacremoses, python-telegram-bot, openai-whisper, pydub`
+```pip install transformers, torch, accelerate, sentencepiece, sacremoses, python-telegram-bot, openai-whisper, pydub```
 
 Команда запуска бота:
 
-`python3 tg_bot.py`
+```python3 tg_bot.py```
 
 Полное описание в статье на Хабр
 
